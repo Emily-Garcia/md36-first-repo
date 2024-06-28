@@ -1,0 +1,9 @@
+- aprendimos las bases
+- aprendimos a usar la terminal
+- aprendimos a usar comandos
+- el funcionamiento de git y github
+- aprendimos a usar github para compartir
+- aprendimos a crear versiones
+- hicimos una cuenta en github
+- como compartir repositorios
+- es necesario vincular git y github
